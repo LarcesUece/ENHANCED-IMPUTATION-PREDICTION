@@ -1,0 +1,19 @@
+\begin{table}[htbp]
+\centering
+\caption{Estatísticas de Desempenho - RMSE}
+\begin{tabular}{lcccccc}
+\hline
+Método & Média & Desvio & Mínimo & Máximo & Mediana & Melhoria (\%) \\
+\hline
+StackingRegressor & 577.41 & 2185.70 & 2.56 & 23550.87 & 37.70 & - \\
+Mean & 395.93 & 789.17 & 3.01 & 3830.53 & 73.75 & -45.83 \\
+Median & 428.40 & 883.53 & 0.99 & 5072.35 & 74.95 & -34.78 \\
+KNNImputer & 395.93 & 789.17 & 3.01 & 3830.53 & 73.75 & -45.83 \\
+ForwardFill & 373.01 & 663.04 & 5.93 & 3659.99 & 84.07 & -54.80 \\
+BackwardFill & 377.41 & 674.92 & 4.64 & 3567.96 & 85.51 & -52.99 \\
+RollingMean & 355.23 & 631.15 & 5.38 & 3842.82 & 79.45 & -62.54 \\
+LinearInterpolation & 327.38 & 582.92 & 5.09 & 3331.12 & 73.63 & -76.37 \\
+\hline
+\end{tabular}
+\label{tab:rmse_comparison}
+\end{table}

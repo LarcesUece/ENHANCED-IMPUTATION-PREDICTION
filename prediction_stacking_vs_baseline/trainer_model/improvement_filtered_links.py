@@ -532,13 +532,13 @@ class ImprovementLinks:
                 logger.info(f"Stacking improvement: {improvement:.2f}%")
 
         df_detail = pd.DataFrame(all_detail_rows)
-        df_detail.to_csv("all_models_detail.csv", index=False)
-        logger.info(f"\nAll models details saved to all_models_detail.csv")
+        df_detail.to_csv("models_detail.csv", index=False)
+        logger.info(f"\nAll models details saved to models_detail.csv")
 
         if all_summary_rows:
             df_summary = pd.DataFrame(all_summary_rows)
-            df_summary.to_csv("all_models_comparison_summary.csv", index=False)
-            logger.info("Comparison summary saved to all_models_comparison_summary.csv")
+            df_summary.to_csv("models_comparison_summary.csv", index=False)
+            logger.info("Comparison summary saved to models_comparison_summary.csv")
 
         logger.info(f"\nComplete log: {log_path}")
         logger.info("End of complete experiment.")

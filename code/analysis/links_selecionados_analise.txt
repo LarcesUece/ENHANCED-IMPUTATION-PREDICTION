@@ -1,0 +1,1157 @@
+LINKS SELECIONADOS PARA ANALISE FINAL
+==================================================
+Total: 290 links
+
+GRUPOS COM DUPLICATAS (apenas o selecionado):
+  ac-am:
+    [SELECTED] ac-am
+    [REMOVED]  am-ac
+
+  ac-ap:
+    [REMOVED]  ac-ap
+    [SELECTED] ap-ac
+
+  ac-ba:
+    [REMOVED]  ac-ba
+    [SELECTED] ba-ac
+
+  ac-ce:
+    [REMOVED]  ac-ce
+    [SELECTED] ce-ac
+
+  ac-es:
+    [REMOVED]  ac-es
+    [SELECTED] es-ac
+
+  ac-go:
+    [REMOVED]  ac-go
+    [SELECTED] go-ac
+
+  ac-ma:
+    [REMOVED]  ac-ma
+    [SELECTED] ma-ac
+
+  ac-mg:
+    [SELECTED] ac-mg
+    [REMOVED]  mg-ac
+
+  ac-ms:
+    [SELECTED] ac-ms
+    [REMOVED]  ms-ac
+
+  ac-mt:
+    [REMOVED]  ac-mt
+    [SELECTED] mt-ac
+
+  ac-pa:
+    [REMOVED]  ac-pa
+    [SELECTED] pa-ac
+
+  ac-pb:
+    [REMOVED]  ac-pb
+    [SELECTED] pb-ac
+
+  ac-pe:
+    [REMOVED]  ac-pe
+    [SELECTED] pe-ac
+
+  ac-pi:
+    [REMOVED]  ac-pi
+    [SELECTED] pi-ac
+
+  ac-pr:
+    [REMOVED]  ac-pr
+    [SELECTED] pr-ac
+
+  ac-rj:
+    [SELECTED] ac-rj
+    [REMOVED]  rj-ac
+
+  ac-rn:
+    [SELECTED] ac-rn
+    [REMOVED]  rn-ac
+
+  ac-ro:
+    [REMOVED]  ac-ro
+    [SELECTED] ro-ac
+
+  ac-rr:
+    [REMOVED]  ac-rr
+    [SELECTED] rr-ac
+
+  ac-rs:
+    [REMOVED]  ac-rs
+    [SELECTED] rs-ac
+
+  ac-sc:
+    [REMOVED]  ac-sc
+    [SELECTED] sc-ac
+
+  ac-se:
+    [REMOVED]  ac-se
+    [SELECTED] se-ac
+
+  ac-sp:
+    [REMOVED]  ac-sp
+    [SELECTED] sp-ac
+
+  ac-to:
+    [REMOVED]  ac-to
+    [SELECTED] to-ac
+
+  am-ap:
+    [SELECTED] am-ap
+    [REMOVED]  ap-am
+
+  am-ba:
+    [REMOVED]  am-ba
+    [SELECTED] ba-am
+
+  am-ce:
+    [SELECTED] am-ce
+    [REMOVED]  ce-am
+
+  am-es:
+    [SELECTED] am-es
+    [REMOVED]  es-am
+
+  am-go:
+    [REMOVED]  am-go
+    [SELECTED] go-am
+
+  am-ma:
+    [SELECTED] am-ma
+    [REMOVED]  ma-am
+
+  am-mg:
+    [SELECTED] am-mg
+    [REMOVED]  mg-am
+
+  am-ms:
+    [SELECTED] am-ms
+    [REMOVED]  ms-am
+
+  am-mt:
+    [REMOVED]  am-mt
+    [SELECTED] mt-am
+
+  am-pa:
+    [SELECTED] am-pa
+    [REMOVED]  pa-am
+
+  am-pb:
+    [SELECTED] am-pb
+    [REMOVED]  pb-am
+
+  am-pe:
+    [SELECTED] am-pe
+    [REMOVED]  pe-am
+
+  am-pi:
+    [REMOVED]  am-pi
+    [SELECTED] pi-am
+
+  am-pr:
+    [SELECTED] am-pr
+    [REMOVED]  pr-am
+
+  am-rj:
+    [SELECTED] am-rj
+    [REMOVED]  rj-am
+
+  am-rn:
+    [REMOVED]  am-rn
+    [SELECTED] rn-am
+
+  am-ro:
+    [REMOVED]  am-ro
+    [SELECTED] ro-am
+
+  am-rr:
+    [SELECTED] am-rr
+    [REMOVED]  rr-am
+
+  am-rs:
+    [SELECTED] am-rs
+    [REMOVED]  rs-am
+
+  am-sc:
+    [SELECTED] am-sc
+    [REMOVED]  sc-am
+
+  am-se:
+    [REMOVED]  am-se
+    [SELECTED] se-am
+
+  am-sp:
+    [SELECTED] am-sp
+    [REMOVED]  sp-am
+
+  am-to:
+    [REMOVED]  am-to
+    [SELECTED] to-am
+
+  ap-ba:
+    [REMOVED]  ap-ba
+    [SELECTED] ba-ap
+
+  ap-ce:
+    [SELECTED] ap-ce
+    [REMOVED]  ce-ap
+
+  ap-es:
+    [SELECTED] ap-es
+    [REMOVED]  es-ap
+
+  ap-go:
+    [REMOVED]  ap-go
+    [SELECTED] go-ap
+
+  ap-ma:
+    [REMOVED]  ap-ma
+    [SELECTED] ma-ap
+
+  ap-mg:
+    [SELECTED] ap-mg
+    [REMOVED]  mg-ap
+
+  ap-ms:
+    [SELECTED] ap-ms
+    [REMOVED]  ms-ap
+
+  ap-mt:
+    [REMOVED]  ap-mt
+    [SELECTED] mt-ap
+
+  ap-pa:
+    [SELECTED] ap-pa
+    [REMOVED]  pa-ap
+
+  ap-pb:
+    [SELECTED] ap-pb
+    [REMOVED]  pb-ap
+
+  ap-pe:
+    [REMOVED]  ap-pe
+    [SELECTED] pe-ap
+
+  ap-pi:
+    [SELECTED] ap-pi
+    [REMOVED]  pi-ap
+
+  ap-pr:
+    [REMOVED]  ap-pr
+    [SELECTED] pr-ap
+
+  ap-rj:
+    [REMOVED]  ap-rj
+    [SELECTED] rj-ap
+
+  ap-rn:
+    [REMOVED]  ap-rn
+    [SELECTED] rn-ap
+
+  ap-ro:
+    [SELECTED] ap-ro
+    [REMOVED]  ro-ap
+
+  ap-rr:
+    [SELECTED] ap-rr
+    [REMOVED]  rr-ap
+
+  ap-rs:
+    [REMOVED]  ap-rs
+    [SELECTED] rs-ap
+
+  ap-sc:
+    [REMOVED]  ap-sc
+    [SELECTED] sc-ap
+
+  ap-se:
+    [REMOVED]  ap-se
+    [SELECTED] se-ap
+
+  ap-sp:
+    [SELECTED] ap-sp
+    [REMOVED]  sp-ap
+
+  ap-to:
+    [REMOVED]  ap-to
+    [SELECTED] to-ap
+
+  ba-ce:
+    [SELECTED] ba-ce
+    [REMOVED]  ce-ba
+
+  ba-es:
+    [REMOVED]  ba-es
+    [SELECTED] es-ba
+
+  ba-go:
+    [REMOVED]  ba-go
+    [SELECTED] go-ba
+
+  ba-ma:
+    [SELECTED] ba-ma
+    [REMOVED]  ma-ba
+
+  ba-mg:
+    [SELECTED] ba-mg
+    [REMOVED]  mg-ba
+
+  ba-ms:
+    [SELECTED] ba-ms
+    [REMOVED]  ms-ba
+
+  ba-mt:
+    [SELECTED] ba-mt
+    [REMOVED]  mt-ba
+
+  ba-pa:
+    [REMOVED]  ba-pa
+    [SELECTED] pa-ba
+
+  ba-pb:
+    [SELECTED] ba-pb
+    [REMOVED]  pb-ba
+
+  ba-pe:
+    [SELECTED] ba-pe
+    [REMOVED]  pe-ba
+
+  ba-pi:
+    [SELECTED] ba-pi
+    [REMOVED]  pi-ba
+
+  ba-pr:
+    [SELECTED] ba-pr
+    [REMOVED]  pr-ba
+
+  ba-rj:
+    [REMOVED]  ba-rj
+    [SELECTED] rj-ba
+
+  ba-rn:
+    [SELECTED] ba-rn
+    [REMOVED]  rn-ba
+
+  ba-ro:
+    [SELECTED] ba-ro
+    [REMOVED]  ro-ba
+
+  ba-rr:
+    [REMOVED]  ba-rr
+    [SELECTED] rr-ba
+
+  ba-rs:
+    [SELECTED] ba-rs
+    [REMOVED]  rs-ba
+
+  ba-sc:
+    [SELECTED] ba-sc
+    [REMOVED]  sc-ba
+
+  ba-se:
+    [REMOVED]  ba-se
+    [SELECTED] se-ba
+
+  ba-sp:
+    [SELECTED] ba-sp
+    [REMOVED]  sp-ba
+
+  ba-to:
+    [SELECTED] ba-to
+    [REMOVED]  to-ba
+
+  ce-es:
+    [SELECTED] ce-es
+    [REMOVED]  es-ce
+
+  ce-go:
+    [REMOVED]  ce-go
+    [SELECTED] go-ce
+
+  ce-ma:
+    [SELECTED] ce-ma
+    [REMOVED]  ma-ce
+
+  ce-mg:
+    [SELECTED] ce-mg
+    [REMOVED]  mg-ce
+
+  ce-ms:
+    [SELECTED] ce-ms
+    [REMOVED]  ms-ce
+
+  ce-mt:
+    [SELECTED] ce-mt
+    [REMOVED]  mt-ce
+
+  ce-pa:
+    [SELECTED] ce-pa
+    [REMOVED]  pa-ce
+
+  ce-pb:
+    [SELECTED] ce-pb
+    [REMOVED]  pb-ce
+
+  ce-pi:
+    [REMOVED]  ce-pi
+    [SELECTED] pi-ce
+
+  ce-pr:
+    [REMOVED]  ce-pr
+    [SELECTED] pr-ce
+
+  ce-rj:
+    [SELECTED] ce-rj
+    [REMOVED]  rj-ce
+
+  ce-rn:
+    [SELECTED] ce-rn
+    [REMOVED]  rn-ce
+
+  ce-ro:
+    [SELECTED] ce-ro
+    [REMOVED]  ro-ce
+
+  ce-rr:
+    [REMOVED]  ce-rr
+    [SELECTED] rr-ce
+
+  ce-rs:
+    [SELECTED] ce-rs
+    [REMOVED]  rs-ce
+
+  ce-sc:
+    [SELECTED] ce-sc
+    [REMOVED]  sc-ce
+
+  ce-se:
+    [REMOVED]  ce-se
+    [SELECTED] se-ce
+
+  ce-sp:
+    [REMOVED]  ce-sp
+    [SELECTED] sp-ce
+
+  ce-to:
+    [SELECTED] ce-to
+    [REMOVED]  to-ce
+
+  es-go:
+    [REMOVED]  es-go
+    [SELECTED] go-es
+
+  es-ma:
+    [REMOVED]  es-ma
+    [SELECTED] ma-es
+
+  es-mg:
+    [SELECTED] es-mg
+    [REMOVED]  mg-es
+
+  es-ms:
+    [SELECTED] es-ms
+    [REMOVED]  ms-es
+
+  es-mt:
+    [REMOVED]  es-mt
+    [SELECTED] mt-es
+
+  es-pa:
+    [SELECTED] es-pa
+    [REMOVED]  pa-es
+
+  es-pb:
+    [REMOVED]  es-pb
+    [SELECTED] pb-es
+
+  es-pe:
+    [SELECTED] es-pe
+    [REMOVED]  pe-es
+
+  es-pi:
+    [SELECTED] es-pi
+    [REMOVED]  pi-es
+
+  es-pr:
+    [SELECTED] es-pr
+    [REMOVED]  pr-es
+
+  es-rj:
+    [REMOVED]  es-rj
+    [SELECTED] rj-es
+
+  es-rn:
+    [REMOVED]  es-rn
+    [SELECTED] rn-es
+
+  es-ro:
+    [SELECTED] es-ro
+    [REMOVED]  ro-es
+
+  es-rr:
+    [REMOVED]  es-rr
+    [SELECTED] rr-es
+
+  es-rs:
+    [REMOVED]  es-rs
+    [SELECTED] rs-es
+
+  es-sc:
+    [SELECTED] es-sc
+    [REMOVED]  sc-es
+
+  es-se:
+    [SELECTED] es-se
+    [REMOVED]  se-es
+
+  es-sp:
+    [SELECTED] es-sp
+    [REMOVED]  sp-es
+
+  es-to:
+    [SELECTED] es-to
+    [REMOVED]  to-es
+
+  go-ma:
+    [REMOVED]  go-ma
+    [SELECTED] ma-go
+
+  go-mg:
+    [SELECTED] go-mg
+    [REMOVED]  mg-go
+
+  go-ms:
+    [SELECTED] go-ms
+    [REMOVED]  ms-go
+
+  go-mt:
+    [REMOVED]  go-mt
+    [SELECTED] mt-go
+
+  go-pa:
+    [REMOVED]  go-pa
+    [SELECTED] pa-go
+
+  go-pb:
+    [REMOVED]  go-pb
+    [SELECTED] pb-go
+
+  go-pe:
+    [SELECTED] go-pe
+    [REMOVED]  pe-go
+
+  go-pi:
+    [REMOVED]  go-pi
+    [SELECTED] pi-go
+
+  go-pr:
+    [SELECTED] go-pr
+    [REMOVED]  pr-go
+
+  go-rj:
+    [REMOVED]  go-rj
+    [SELECTED] rj-go
+
+  go-rn:
+    [REMOVED]  go-rn
+    [SELECTED] rn-go
+
+  go-ro:
+    [SELECTED] go-ro
+    [REMOVED]  ro-go
+
+  go-rr:
+    [REMOVED]  go-rr
+    [SELECTED] rr-go
+
+  go-rs:
+    [SELECTED] go-rs
+    [REMOVED]  rs-go
+
+  go-sc:
+    [SELECTED] go-sc
+    [REMOVED]  sc-go
+
+  go-se:
+    [REMOVED]  go-se
+    [SELECTED] se-go
+
+  go-sp:
+    [REMOVED]  go-sp
+    [SELECTED] sp-go
+
+  go-to:
+    [SELECTED] go-to
+    [REMOVED]  to-go
+
+  ma-mg:
+    [REMOVED]  ma-mg
+    [SELECTED] mg-ma
+
+  ma-ms:
+    [SELECTED] ma-ms
+    [REMOVED]  ms-ma
+
+  ma-mt:
+    [SELECTED] ma-mt
+    [REMOVED]  mt-ma
+
+  ma-pa:
+    [SELECTED] ma-pa
+    [REMOVED]  pa-ma
+
+  ma-pb:
+    [SELECTED] ma-pb
+    [REMOVED]  pb-ma
+
+  ma-pi:
+    [SELECTED] ma-pi
+    [REMOVED]  pi-ma
+
+  ma-pr:
+    [SELECTED] ma-pr
+    [REMOVED]  pr-ma
+
+  ma-rj:
+    [SELECTED] ma-rj
+    [REMOVED]  rj-ma
+
+  ma-rn:
+    [SELECTED] ma-rn
+    [REMOVED]  rn-ma
+
+  ma-ro:
+    [REMOVED]  ma-ro
+    [SELECTED] ro-ma
+
+  ma-rr:
+    [REMOVED]  ma-rr
+    [SELECTED] rr-ma
+
+  ma-rs:
+    [REMOVED]  ma-rs
+    [SELECTED] rs-ma
+
+  ma-sc:
+    [REMOVED]  ma-sc
+    [SELECTED] sc-ma
+
+  ma-se:
+    [SELECTED] ma-se
+    [REMOVED]  se-ma
+
+  ma-sp:
+    [REMOVED]  ma-sp
+    [SELECTED] sp-ma
+
+  ma-to:
+    [SELECTED] ma-to
+    [REMOVED]  to-ma
+
+  mg-ms:
+    [SELECTED] mg-ms
+    [REMOVED]  ms-mg
+
+  mg-mt:
+    [SELECTED] mg-mt
+    [REMOVED]  mt-mg
+
+  mg-pa:
+    [REMOVED]  mg-pa
+    [SELECTED] pa-mg
+
+  mg-pi:
+    [SELECTED] mg-pi
+    [REMOVED]  pi-mg
+
+  mg-pr:
+    [REMOVED]  mg-pr
+    [SELECTED] pr-mg
+
+  mg-rj:
+    [REMOVED]  mg-rj
+    [SELECTED] rj-mg
+
+  mg-rn:
+    [REMOVED]  mg-rn
+    [SELECTED] rn-mg
+
+  mg-rr:
+    [SELECTED] mg-rr
+    [REMOVED]  rr-mg
+
+  mg-rs:
+    [REMOVED]  mg-rs
+    [SELECTED] rs-mg
+
+  mg-sc:
+    [SELECTED] mg-sc
+    [REMOVED]  sc-mg
+
+  mg-se:
+    [REMOVED]  mg-se
+    [SELECTED] se-mg
+
+  mg-sp:
+    [SELECTED] mg-sp
+    [REMOVED]  sp-mg
+
+  mg-to:
+    [REMOVED]  mg-to
+    [SELECTED] to-mg
+
+  ms-mt:
+    [REMOVED]  ms-mt
+    [SELECTED] mt-ms
+
+  ms-pa:
+    [REMOVED]  ms-pa
+    [SELECTED] pa-ms
+
+  ms-pb:
+    [SELECTED] ms-pb
+    [REMOVED]  pb-ms
+
+  ms-pe:
+    [REMOVED]  ms-pe
+    [SELECTED] pe-ms
+
+  ms-pi:
+    [REMOVED]  ms-pi
+    [SELECTED] pi-ms
+
+  ms-pr:
+    [REMOVED]  ms-pr
+    [SELECTED] pr-ms
+
+  ms-rj:
+    [REMOVED]  ms-rj
+    [SELECTED] rj-ms
+
+  ms-rn:
+    [SELECTED] ms-rn
+    [REMOVED]  rn-ms
+
+  ms-ro:
+    [REMOVED]  ms-ro
+    [SELECTED] ro-ms
+
+  ms-rr:
+    [REMOVED]  ms-rr
+    [SELECTED] rr-ms
+
+  ms-rs:
+    [REMOVED]  ms-rs
+    [SELECTED] rs-ms
+
+  ms-sc:
+    [SELECTED] ms-sc
+    [REMOVED]  sc-ms
+
+  ms-se:
+    [SELECTED] ms-se
+    [REMOVED]  se-ms
+
+  ms-sp:
+    [REMOVED]  ms-sp
+    [SELECTED] sp-ms
+
+  ms-to:
+    [SELECTED] ms-to
+    [REMOVED]  to-ms
+
+  mt-pa:
+    [SELECTED] mt-pa
+    [REMOVED]  pa-mt
+
+  mt-pb:
+    [SELECTED] mt-pb
+    [REMOVED]  pb-mt
+
+  mt-pe:
+    [SELECTED] mt-pe
+    [REMOVED]  pe-mt
+
+  mt-pi:
+    [SELECTED] mt-pi
+    [REMOVED]  pi-mt
+
+  mt-pr:
+    [SELECTED] mt-pr
+    [REMOVED]  pr-mt
+
+  mt-rj:
+    [SELECTED] mt-rj
+    [REMOVED]  rj-mt
+
+  mt-rn:
+    [REMOVED]  mt-rn
+    [SELECTED] rn-mt
+
+  mt-ro:
+    [SELECTED] mt-ro
+    [REMOVED]  ro-mt
+
+  mt-rr:
+    [REMOVED]  mt-rr
+    [SELECTED] rr-mt
+
+  mt-rs:
+    [REMOVED]  mt-rs
+    [SELECTED] rs-mt
+
+  mt-sc:
+    [SELECTED] mt-sc
+    [REMOVED]  sc-mt
+
+  mt-se:
+    [REMOVED]  mt-se
+    [SELECTED] se-mt
+
+  mt-sp:
+    [SELECTED] mt-sp
+    [REMOVED]  sp-mt
+
+  mt-to:
+    [SELECTED] mt-to
+    [REMOVED]  to-mt
+
+  pa-pb:
+    [REMOVED]  pa-pb
+    [SELECTED] pb-pa
+
+  pa-pi:
+    [REMOVED]  pa-pi
+    [SELECTED] pi-pa
+
+  pa-pr:
+    [REMOVED]  pa-pr
+    [SELECTED] pr-pa
+
+  pa-rj:
+    [SELECTED] pa-rj
+    [REMOVED]  rj-pa
+
+  pa-rn:
+    [REMOVED]  pa-rn
+    [SELECTED] rn-pa
+
+  pa-ro:
+    [SELECTED] pa-ro
+    [REMOVED]  ro-pa
+
+  pa-rr:
+    [REMOVED]  pa-rr
+    [SELECTED] rr-pa
+
+  pa-rs:
+    [REMOVED]  pa-rs
+    [SELECTED] rs-pa
+
+  pa-sc:
+    [SELECTED] pa-sc
+    [REMOVED]  sc-pa
+
+  pa-se:
+    [REMOVED]  pa-se
+    [SELECTED] se-pa
+
+  pa-sp:
+    [SELECTED] pa-sp
+    [REMOVED]  sp-pa
+
+  pa-to:
+    [SELECTED] pa-to
+    [REMOVED]  to-pa
+
+  pb-pe:
+    [SELECTED] pb-pe
+    [REMOVED]  pe-pb
+
+  pb-pi:
+    [SELECTED] pb-pi
+    [REMOVED]  pi-pb
+
+  pb-pr:
+    [REMOVED]  pb-pr
+    [SELECTED] pr-pb
+
+  pb-rj:
+    [SELECTED] pb-rj
+    [REMOVED]  rj-pb
+
+  pb-ro:
+    [SELECTED] pb-ro
+    [REMOVED]  ro-pb
+
+  pb-rr:
+    [SELECTED] pb-rr
+    [REMOVED]  rr-pb
+
+  pb-rs:
+    [SELECTED] pb-rs
+    [REMOVED]  rs-pb
+
+  pb-sc:
+    [SELECTED] pb-sc
+    [REMOVED]  sc-pb
+
+  pb-se:
+    [REMOVED]  pb-se
+    [SELECTED] se-pb
+
+  pb-sp:
+    [REMOVED]  pb-sp
+    [SELECTED] sp-pb
+
+  pb-to:
+    [REMOVED]  pb-to
+    [SELECTED] to-pb
+
+  pe-pi:
+    [REMOVED]  pe-pi
+    [SELECTED] pi-pe
+
+  pe-pr:
+    [REMOVED]  pe-pr
+    [SELECTED] pr-pe
+
+  pe-ro:
+    [SELECTED] pe-ro
+    [REMOVED]  ro-pe
+
+  pe-rr:
+    [SELECTED] pe-rr
+    [REMOVED]  rr-pe
+
+  pe-sc:
+    [SELECTED] pe-sc
+    [REMOVED]  sc-pe
+
+  pe-se:
+    [SELECTED] pe-se
+    [REMOVED]  se-pe
+
+  pe-to:
+    [REMOVED]  pe-to
+    [SELECTED] to-pe
+
+  pi-pr:
+    [SELECTED] pi-pr
+    [REMOVED]  pr-pi
+
+  pi-rj:
+    [REMOVED]  pi-rj
+    [SELECTED] rj-pi
+
+  pi-rn:
+    [SELECTED] pi-rn
+    [REMOVED]  rn-pi
+
+  pi-ro:
+    [SELECTED] pi-ro
+    [REMOVED]  ro-pi
+
+  pi-rr:
+    [REMOVED]  pi-rr
+    [SELECTED] rr-pi
+
+  pi-rs:
+    [SELECTED] pi-rs
+    [REMOVED]  rs-pi
+
+  pi-sc:
+    [SELECTED] pi-sc
+    [REMOVED]  sc-pi
+
+  pi-se:
+    [SELECTED] pi-se
+    [REMOVED]  se-pi
+
+  pi-sp:
+    [REMOVED]  pi-sp
+    [SELECTED] sp-pi
+
+  pi-to:
+    [SELECTED] pi-to
+    [REMOVED]  to-pi
+
+  pr-rj:
+    [REMOVED]  pr-rj
+    [SELECTED] rj-pr
+
+  pr-rn:
+    [SELECTED] pr-rn
+    [REMOVED]  rn-pr
+
+  pr-ro:
+    [SELECTED] pr-ro
+    [REMOVED]  ro-pr
+
+  pr-rr:
+    [REMOVED]  pr-rr
+    [SELECTED] rr-pr
+
+  pr-rs:
+    [SELECTED] pr-rs
+    [REMOVED]  rs-pr
+
+  pr-sc:
+    [REMOVED]  pr-sc
+    [SELECTED] sc-pr
+
+  pr-se:
+    [SELECTED] pr-se
+    [REMOVED]  se-pr
+
+  pr-sp:
+    [SELECTED] pr-sp
+    [REMOVED]  sp-pr
+
+  pr-to:
+    [REMOVED]  pr-to
+    [SELECTED] to-pr
+
+  rj-rn:
+    [REMOVED]  rj-rn
+    [SELECTED] rn-rj
+
+  rj-rr:
+    [REMOVED]  rj-rr
+    [SELECTED] rr-rj
+
+  rj-rs:
+    [REMOVED]  rj-rs
+    [SELECTED] rs-rj
+
+  rj-sc:
+    [REMOVED]  rj-sc
+    [SELECTED] sc-rj
+
+  rj-se:
+    [SELECTED] rj-se
+    [REMOVED]  se-rj
+
+  rj-sp:
+    [REMOVED]  rj-sp
+    [SELECTED] sp-rj
+
+  rj-to:
+    [REMOVED]  rj-to
+    [SELECTED] to-rj
+
+  rn-rr:
+    [REMOVED]  rn-rr
+    [SELECTED] rr-rn
+
+  rn-rs:
+    [REMOVED]  rn-rs
+    [SELECTED] rs-rn
+
+  rn-sc:
+    [SELECTED] rn-sc
+    [REMOVED]  sc-rn
+
+  rn-se:
+    [REMOVED]  rn-se
+    [SELECTED] se-rn
+
+  rn-sp:
+    [REMOVED]  rn-sp
+    [SELECTED] sp-rn
+
+  rn-to:
+    [SELECTED] rn-to
+    [REMOVED]  to-rn
+
+  ro-rr:
+    [REMOVED]  ro-rr
+    [SELECTED] rr-ro
+
+  ro-rs:
+    [SELECTED] ro-rs
+    [REMOVED]  rs-ro
+
+  ro-sc:
+    [REMOVED]  ro-sc
+    [SELECTED] sc-ro
+
+  ro-se:
+    [REMOVED]  ro-se
+    [SELECTED] se-ro
+
+  ro-sp:
+    [REMOVED]  ro-sp
+    [SELECTED] sp-ro
+
+  ro-to:
+    [REMOVED]  ro-to
+    [SELECTED] to-ro
+
+  rr-rs:
+    [SELECTED] rr-rs
+    [REMOVED]  rs-rr
+
+  rr-sc:
+    [SELECTED] rr-sc
+    [REMOVED]  sc-rr
+
+  rr-se:
+    [SELECTED] rr-se
+    [REMOVED]  se-rr
+
+  rr-sp:
+    [REMOVED]  rr-sp
+    [SELECTED] sp-rr
+
+  rr-to:
+    [SELECTED] rr-to
+    [REMOVED]  to-rr
+
+  rs-sc:
+    [SELECTED] rs-sc
+    [REMOVED]  sc-rs
+
+  rs-se:
+    [REMOVED]  rs-se
+    [SELECTED] se-rs
+
+  rs-sp:
+    [SELECTED] rs-sp
+    [REMOVED]  sp-rs
+
+  rs-to:
+    [SELECTED] rs-to
+    [REMOVED]  to-rs
+
+  sc-se:
+    [REMOVED]  sc-se
+    [SELECTED] se-sc
+
+  sc-sp:
+    [SELECTED] sc-sp
+    [REMOVED]  sp-sc
+
+  sc-to:
+    [SELECTED] sc-to
+    [REMOVED]  to-sc
+
+  se-sp:
+    [REMOVED]  se-sp
+    [SELECTED] sp-se
+
+  se-to:
+    [REMOVED]  se-to
+    [SELECTED] to-se
+
+  sp-to:
+    [SELECTED] sp-to
+    [REMOVED]  to-sp
+
+LINKS UNICOS:
+  [UNIQUE] pb-mg
+  [UNIQUE] pb-rn
+  [UNIQUE] ro-rn

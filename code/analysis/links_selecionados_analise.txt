@@ -1,11 +1,11 @@
-LINKS SELECIONADOS PARA ANALISE FINAL
+SELECTED LINKS FOR FINAL ANALYSIS
 ==================================================
 Total: 290 links
 
-GRUPOS COM DUPLICATAS (apenas o selecionado):
+GROUPS WITH DUPLICATES (only selected):
   ac-am:
-    [SELECTED] ac-am
-    [REMOVED]  am-ac
+    [REMOVED]  ac-am
+    [SELECTED] am-ac
 
   ac-ap:
     [REMOVED]  ac-ap
@@ -36,8 +36,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  mg-ac
 
   ac-ms:
-    [SELECTED] ac-ms
-    [REMOVED]  ms-ac
+    [REMOVED]  ac-ms
+    [SELECTED] ms-ac
 
   ac-mt:
     [REMOVED]  ac-mt
@@ -56,16 +56,16 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] pe-ac
 
   ac-pi:
-    [REMOVED]  ac-pi
-    [SELECTED] pi-ac
+    [SELECTED] ac-pi
+    [REMOVED]  pi-ac
 
   ac-pr:
     [REMOVED]  ac-pr
     [SELECTED] pr-ac
 
   ac-rj:
-    [SELECTED] ac-rj
-    [REMOVED]  rj-ac
+    [REMOVED]  ac-rj
+    [SELECTED] rj-ac
 
   ac-rn:
     [SELECTED] ac-rn
@@ -100,8 +100,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] to-ac
 
   am-ap:
-    [SELECTED] am-ap
-    [REMOVED]  ap-am
+    [REMOVED]  am-ap
+    [SELECTED] ap-am
 
   am-ba:
     [REMOVED]  am-ba
@@ -120,8 +120,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] go-am
 
   am-ma:
-    [SELECTED] am-ma
-    [REMOVED]  ma-am
+    [REMOVED]  am-ma
+    [SELECTED] ma-am
 
   am-mg:
     [SELECTED] am-mg
@@ -132,8 +132,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  ms-am
 
   am-mt:
-    [REMOVED]  am-mt
-    [SELECTED] mt-am
+    [SELECTED] am-mt
+    [REMOVED]  mt-am
 
   am-pa:
     [SELECTED] am-pa
@@ -148,12 +148,12 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  pe-am
 
   am-pi:
-    [REMOVED]  am-pi
-    [SELECTED] pi-am
+    [SELECTED] am-pi
+    [REMOVED]  pi-am
 
   am-pr:
-    [SELECTED] am-pr
-    [REMOVED]  pr-am
+    [REMOVED]  am-pr
+    [SELECTED] pr-am
 
   am-rj:
     [SELECTED] am-rj
@@ -172,36 +172,36 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  rr-am
 
   am-rs:
-    [SELECTED] am-rs
-    [REMOVED]  rs-am
+    [REMOVED]  am-rs
+    [SELECTED] rs-am
 
   am-sc:
     [SELECTED] am-sc
     [REMOVED]  sc-am
 
   am-se:
-    [REMOVED]  am-se
-    [SELECTED] se-am
+    [SELECTED] am-se
+    [REMOVED]  se-am
 
   am-sp:
-    [SELECTED] am-sp
-    [REMOVED]  sp-am
+    [REMOVED]  am-sp
+    [SELECTED] sp-am
 
   am-to:
-    [REMOVED]  am-to
-    [SELECTED] to-am
+    [SELECTED] am-to
+    [REMOVED]  to-am
 
   ap-ba:
-    [REMOVED]  ap-ba
-    [SELECTED] ba-ap
+    [SELECTED] ap-ba
+    [REMOVED]  ba-ap
 
   ap-ce:
-    [SELECTED] ap-ce
-    [REMOVED]  ce-ap
+    [REMOVED]  ap-ce
+    [SELECTED] ce-ap
 
   ap-es:
-    [SELECTED] ap-es
-    [REMOVED]  es-ap
+    [REMOVED]  ap-es
+    [SELECTED] es-ap
 
   ap-go:
     [REMOVED]  ap-go
@@ -220,8 +220,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  ms-ap
 
   ap-mt:
-    [REMOVED]  ap-mt
-    [SELECTED] mt-ap
+    [SELECTED] ap-mt
+    [REMOVED]  mt-ap
 
   ap-pa:
     [SELECTED] ap-pa
@@ -240,8 +240,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  pi-ap
 
   ap-pr:
-    [REMOVED]  ap-pr
-    [SELECTED] pr-ap
+    [SELECTED] ap-pr
+    [REMOVED]  pr-ap
 
   ap-rj:
     [REMOVED]  ap-rj
@@ -268,28 +268,28 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] sc-ap
 
   ap-se:
-    [REMOVED]  ap-se
-    [SELECTED] se-ap
+    [SELECTED] ap-se
+    [REMOVED]  se-ap
 
   ap-sp:
-    [SELECTED] ap-sp
-    [REMOVED]  sp-ap
+    [REMOVED]  ap-sp
+    [SELECTED] sp-ap
 
   ap-to:
     [REMOVED]  ap-to
     [SELECTED] to-ap
 
   ba-ce:
-    [SELECTED] ba-ce
-    [REMOVED]  ce-ba
+    [REMOVED]  ba-ce
+    [SELECTED] ce-ba
 
   ba-es:
     [REMOVED]  ba-es
     [SELECTED] es-ba
 
   ba-go:
-    [REMOVED]  ba-go
-    [SELECTED] go-ba
+    [SELECTED] ba-go
+    [REMOVED]  go-ba
 
   ba-ma:
     [SELECTED] ba-ma
@@ -308,44 +308,44 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  mt-ba
 
   ba-pa:
-    [REMOVED]  ba-pa
-    [SELECTED] pa-ba
+    [SELECTED] ba-pa
+    [REMOVED]  pa-ba
 
   ba-pb:
-    [SELECTED] ba-pb
-    [REMOVED]  pb-ba
+    [REMOVED]  ba-pb
+    [SELECTED] pb-ba
 
   ba-pe:
-    [SELECTED] ba-pe
-    [REMOVED]  pe-ba
+    [REMOVED]  ba-pe
+    [SELECTED] pe-ba
 
   ba-pi:
     [SELECTED] ba-pi
     [REMOVED]  pi-ba
 
   ba-pr:
-    [SELECTED] ba-pr
-    [REMOVED]  pr-ba
+    [REMOVED]  ba-pr
+    [SELECTED] pr-ba
 
   ba-rj:
-    [REMOVED]  ba-rj
-    [SELECTED] rj-ba
+    [SELECTED] ba-rj
+    [REMOVED]  rj-ba
 
   ba-rn:
     [SELECTED] ba-rn
     [REMOVED]  rn-ba
 
   ba-ro:
-    [SELECTED] ba-ro
-    [REMOVED]  ro-ba
+    [REMOVED]  ba-ro
+    [SELECTED] ro-ba
 
   ba-rr:
     [REMOVED]  ba-rr
     [SELECTED] rr-ba
 
   ba-rs:
-    [SELECTED] ba-rs
-    [REMOVED]  rs-ba
+    [REMOVED]  ba-rs
+    [SELECTED] rs-ba
 
   ba-sc:
     [SELECTED] ba-sc
@@ -356,8 +356,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] se-ba
 
   ba-sp:
-    [SELECTED] ba-sp
-    [REMOVED]  sp-ba
+    [REMOVED]  ba-sp
+    [SELECTED] sp-ba
 
   ba-to:
     [SELECTED] ba-to
@@ -376,8 +376,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  ma-ce
 
   ce-mg:
-    [SELECTED] ce-mg
-    [REMOVED]  mg-ce
+    [REMOVED]  ce-mg
+    [SELECTED] mg-ce
 
   ce-ms:
     [SELECTED] ce-ms
@@ -388,16 +388,16 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  mt-ce
 
   ce-pa:
-    [SELECTED] ce-pa
-    [REMOVED]  pa-ce
+    [REMOVED]  ce-pa
+    [SELECTED] pa-ce
 
   ce-pb:
     [SELECTED] ce-pb
     [REMOVED]  pb-ce
 
   ce-pi:
-    [REMOVED]  ce-pi
-    [SELECTED] pi-ce
+    [SELECTED] ce-pi
+    [REMOVED]  pi-ce
 
   ce-pr:
     [REMOVED]  ce-pr
@@ -412,40 +412,40 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  rn-ce
 
   ce-ro:
-    [SELECTED] ce-ro
-    [REMOVED]  ro-ce
+    [REMOVED]  ce-ro
+    [SELECTED] ro-ce
 
   ce-rr:
     [REMOVED]  ce-rr
     [SELECTED] rr-ce
 
   ce-rs:
-    [SELECTED] ce-rs
-    [REMOVED]  rs-ce
+    [REMOVED]  ce-rs
+    [SELECTED] rs-ce
 
   ce-sc:
-    [SELECTED] ce-sc
-    [REMOVED]  sc-ce
+    [REMOVED]  ce-sc
+    [SELECTED] sc-ce
 
   ce-se:
     [REMOVED]  ce-se
     [SELECTED] se-ce
 
   ce-sp:
-    [REMOVED]  ce-sp
-    [SELECTED] sp-ce
+    [SELECTED] ce-sp
+    [REMOVED]  sp-ce
 
   ce-to:
-    [SELECTED] ce-to
-    [REMOVED]  to-ce
+    [REMOVED]  ce-to
+    [SELECTED] to-ce
 
   es-go:
     [REMOVED]  es-go
     [SELECTED] go-es
 
   es-ma:
-    [REMOVED]  es-ma
-    [SELECTED] ma-es
+    [SELECTED] es-ma
+    [REMOVED]  ma-es
 
   es-mg:
     [SELECTED] es-mg
@@ -456,8 +456,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  ms-es
 
   es-mt:
-    [REMOVED]  es-mt
-    [SELECTED] mt-es
+    [SELECTED] es-mt
+    [REMOVED]  mt-es
 
   es-pa:
     [SELECTED] es-pa
@@ -500,8 +500,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] rs-es
 
   es-sc:
-    [SELECTED] es-sc
-    [REMOVED]  sc-es
+    [REMOVED]  es-sc
+    [SELECTED] sc-es
 
   es-se:
     [SELECTED] es-se
@@ -512,8 +512,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  sp-es
 
   es-to:
-    [SELECTED] es-to
-    [REMOVED]  to-es
+    [REMOVED]  es-to
+    [SELECTED] to-es
 
   go-ma:
     [REMOVED]  go-ma
@@ -524,8 +524,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  mg-go
 
   go-ms:
-    [SELECTED] go-ms
-    [REMOVED]  ms-go
+    [REMOVED]  go-ms
+    [SELECTED] ms-go
 
   go-mt:
     [REMOVED]  go-mt
@@ -540,16 +540,16 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] pb-go
 
   go-pe:
-    [SELECTED] go-pe
-    [REMOVED]  pe-go
+    [REMOVED]  go-pe
+    [SELECTED] pe-go
 
   go-pi:
-    [REMOVED]  go-pi
-    [SELECTED] pi-go
+    [SELECTED] go-pi
+    [REMOVED]  pi-go
 
   go-pr:
-    [SELECTED] go-pr
-    [REMOVED]  pr-go
+    [REMOVED]  go-pr
+    [SELECTED] pr-go
 
   go-rj:
     [REMOVED]  go-rj
@@ -568,8 +568,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] rr-go
 
   go-rs:
-    [SELECTED] go-rs
-    [REMOVED]  rs-go
+    [REMOVED]  go-rs
+    [SELECTED] rs-go
 
   go-sc:
     [SELECTED] go-sc
@@ -604,8 +604,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  pa-ma
 
   ma-pb:
-    [SELECTED] ma-pb
-    [REMOVED]  pb-ma
+    [REMOVED]  ma-pb
+    [SELECTED] pb-ma
 
   ma-pi:
     [SELECTED] ma-pi
@@ -620,12 +620,12 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  rj-ma
 
   ma-rn:
-    [SELECTED] ma-rn
-    [REMOVED]  rn-ma
+    [REMOVED]  ma-rn
+    [SELECTED] rn-ma
 
   ma-ro:
-    [REMOVED]  ma-ro
-    [SELECTED] ro-ma
+    [SELECTED] ma-ro
+    [REMOVED]  ro-ma
 
   ma-rr:
     [REMOVED]  ma-rr
@@ -636,20 +636,20 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] rs-ma
 
   ma-sc:
-    [REMOVED]  ma-sc
-    [SELECTED] sc-ma
+    [SELECTED] ma-sc
+    [REMOVED]  sc-ma
 
   ma-se:
-    [SELECTED] ma-se
-    [REMOVED]  se-ma
+    [REMOVED]  ma-se
+    [SELECTED] se-ma
 
   ma-sp:
     [REMOVED]  ma-sp
     [SELECTED] sp-ma
 
   ma-to:
-    [SELECTED] ma-to
-    [REMOVED]  to-ma
+    [REMOVED]  ma-to
+    [SELECTED] to-ma
 
   mg-ms:
     [SELECTED] mg-ms
@@ -660,12 +660,12 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  mt-mg
 
   mg-pa:
-    [REMOVED]  mg-pa
-    [SELECTED] pa-mg
+    [SELECTED] mg-pa
+    [REMOVED]  pa-mg
 
   mg-pi:
-    [SELECTED] mg-pi
-    [REMOVED]  pi-mg
+    [REMOVED]  mg-pi
+    [SELECTED] pi-mg
 
   mg-pr:
     [REMOVED]  mg-pr
@@ -676,8 +676,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] rj-mg
 
   mg-rn:
-    [REMOVED]  mg-rn
-    [SELECTED] rn-mg
+    [SELECTED] mg-rn
+    [REMOVED]  rn-mg
 
   mg-rr:
     [SELECTED] mg-rr
@@ -696,8 +696,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] se-mg
 
   mg-sp:
-    [SELECTED] mg-sp
-    [REMOVED]  sp-mg
+    [REMOVED]  mg-sp
+    [SELECTED] sp-mg
 
   mg-to:
     [REMOVED]  mg-to
@@ -728,16 +728,16 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] pr-ms
 
   ms-rj:
-    [REMOVED]  ms-rj
-    [SELECTED] rj-ms
+    [SELECTED] ms-rj
+    [REMOVED]  rj-ms
 
   ms-rn:
-    [SELECTED] ms-rn
-    [REMOVED]  rn-ms
+    [REMOVED]  ms-rn
+    [SELECTED] rn-ms
 
   ms-ro:
-    [REMOVED]  ms-ro
-    [SELECTED] ro-ms
+    [SELECTED] ms-ro
+    [REMOVED]  ro-ms
 
   ms-rr:
     [REMOVED]  ms-rr
@@ -780,12 +780,12 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  pi-mt
 
   mt-pr:
-    [SELECTED] mt-pr
-    [REMOVED]  pr-mt
+    [REMOVED]  mt-pr
+    [SELECTED] pr-mt
 
   mt-rj:
-    [SELECTED] mt-rj
-    [REMOVED]  rj-mt
+    [REMOVED]  mt-rj
+    [SELECTED] rj-mt
 
   mt-rn:
     [REMOVED]  mt-rn
@@ -808,28 +808,28 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  sc-mt
 
   mt-se:
-    [REMOVED]  mt-se
-    [SELECTED] se-mt
+    [SELECTED] mt-se
+    [REMOVED]  se-mt
 
   mt-sp:
-    [SELECTED] mt-sp
-    [REMOVED]  sp-mt
+    [REMOVED]  mt-sp
+    [SELECTED] sp-mt
 
   mt-to:
     [SELECTED] mt-to
     [REMOVED]  to-mt
 
   pa-pb:
-    [REMOVED]  pa-pb
-    [SELECTED] pb-pa
+    [SELECTED] pa-pb
+    [REMOVED]  pb-pa
 
   pa-pi:
-    [REMOVED]  pa-pi
-    [SELECTED] pi-pa
+    [SELECTED] pa-pi
+    [REMOVED]  pi-pa
 
   pa-pr:
-    [REMOVED]  pa-pr
-    [SELECTED] pr-pa
+    [SELECTED] pa-pr
+    [REMOVED]  pr-pa
 
   pa-rj:
     [SELECTED] pa-rj
@@ -840,12 +840,12 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] rn-pa
 
   pa-ro:
-    [SELECTED] pa-ro
-    [REMOVED]  ro-pa
+    [REMOVED]  pa-ro
+    [SELECTED] ro-pa
 
   pa-rr:
-    [REMOVED]  pa-rr
-    [SELECTED] rr-pa
+    [SELECTED] pa-rr
+    [REMOVED]  rr-pa
 
   pa-rs:
     [REMOVED]  pa-rs
@@ -860,16 +860,16 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] se-pa
 
   pa-sp:
-    [SELECTED] pa-sp
-    [REMOVED]  sp-pa
+    [REMOVED]  pa-sp
+    [SELECTED] sp-pa
 
   pa-to:
     [SELECTED] pa-to
     [REMOVED]  to-pa
 
   pb-pe:
-    [SELECTED] pb-pe
-    [REMOVED]  pe-pb
+    [REMOVED]  pb-pe
+    [SELECTED] pe-pb
 
   pb-pi:
     [SELECTED] pb-pi
@@ -888,44 +888,44 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  ro-pb
 
   pb-rr:
-    [SELECTED] pb-rr
-    [REMOVED]  rr-pb
+    [REMOVED]  pb-rr
+    [SELECTED] rr-pb
 
   pb-rs:
-    [SELECTED] pb-rs
-    [REMOVED]  rs-pb
+    [REMOVED]  pb-rs
+    [SELECTED] rs-pb
 
   pb-sc:
     [SELECTED] pb-sc
     [REMOVED]  sc-pb
 
   pb-se:
-    [REMOVED]  pb-se
-    [SELECTED] se-pb
+    [SELECTED] pb-se
+    [REMOVED]  se-pb
 
   pb-sp:
     [REMOVED]  pb-sp
     [SELECTED] sp-pb
 
   pb-to:
-    [REMOVED]  pb-to
-    [SELECTED] to-pb
+    [SELECTED] pb-to
+    [REMOVED]  to-pb
 
   pe-pi:
     [REMOVED]  pe-pi
     [SELECTED] pi-pe
 
   pe-pr:
-    [REMOVED]  pe-pr
-    [SELECTED] pr-pe
+    [SELECTED] pe-pr
+    [REMOVED]  pr-pe
 
   pe-ro:
     [SELECTED] pe-ro
     [REMOVED]  ro-pe
 
   pe-rr:
-    [SELECTED] pe-rr
-    [REMOVED]  rr-pe
+    [REMOVED]  pe-rr
+    [SELECTED] rr-pe
 
   pe-sc:
     [SELECTED] pe-sc
@@ -936,12 +936,12 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  se-pe
 
   pe-to:
-    [REMOVED]  pe-to
-    [SELECTED] to-pe
+    [SELECTED] pe-to
+    [REMOVED]  to-pe
 
   pi-pr:
-    [SELECTED] pi-pr
-    [REMOVED]  pr-pi
+    [REMOVED]  pi-pr
+    [SELECTED] pr-pi
 
   pi-rj:
     [REMOVED]  pi-rj
@@ -952,24 +952,24 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  rn-pi
 
   pi-ro:
-    [SELECTED] pi-ro
-    [REMOVED]  ro-pi
+    [REMOVED]  pi-ro
+    [SELECTED] ro-pi
 
   pi-rr:
     [REMOVED]  pi-rr
     [SELECTED] rr-pi
 
   pi-rs:
-    [SELECTED] pi-rs
-    [REMOVED]  rs-pi
+    [REMOVED]  pi-rs
+    [SELECTED] rs-pi
 
   pi-sc:
     [SELECTED] pi-sc
     [REMOVED]  sc-pi
 
   pi-se:
-    [SELECTED] pi-se
-    [REMOVED]  se-pi
+    [REMOVED]  pi-se
+    [SELECTED] se-pi
 
   pi-sp:
     [REMOVED]  pi-sp
@@ -980,20 +980,20 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  to-pi
 
   pr-rj:
-    [REMOVED]  pr-rj
-    [SELECTED] rj-pr
+    [SELECTED] pr-rj
+    [REMOVED]  rj-pr
 
   pr-rn:
     [SELECTED] pr-rn
     [REMOVED]  rn-pr
 
   pr-ro:
-    [SELECTED] pr-ro
-    [REMOVED]  ro-pr
+    [REMOVED]  pr-ro
+    [SELECTED] ro-pr
 
   pr-rr:
-    [REMOVED]  pr-rr
-    [SELECTED] rr-pr
+    [SELECTED] pr-rr
+    [REMOVED]  rr-pr
 
   pr-rs:
     [SELECTED] pr-rs
@@ -1004,24 +1004,24 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] sc-pr
 
   pr-se:
-    [SELECTED] pr-se
-    [REMOVED]  se-pr
+    [REMOVED]  pr-se
+    [SELECTED] se-pr
 
   pr-sp:
     [SELECTED] pr-sp
     [REMOVED]  sp-pr
 
   pr-to:
-    [REMOVED]  pr-to
-    [SELECTED] to-pr
+    [SELECTED] pr-to
+    [REMOVED]  to-pr
 
   rj-rn:
     [REMOVED]  rj-rn
     [SELECTED] rn-rj
 
   rj-rr:
-    [REMOVED]  rj-rr
-    [SELECTED] rr-rj
+    [SELECTED] rj-rr
+    [REMOVED]  rr-rj
 
   rj-rs:
     [REMOVED]  rj-rs
@@ -1052,8 +1052,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] rs-rn
 
   rn-sc:
-    [SELECTED] rn-sc
-    [REMOVED]  sc-rn
+    [REMOVED]  rn-sc
+    [SELECTED] sc-rn
 
   rn-se:
     [REMOVED]  rn-se
@@ -1072,8 +1072,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] rr-ro
 
   ro-rs:
-    [SELECTED] ro-rs
-    [REMOVED]  rs-ro
+    [REMOVED]  ro-rs
+    [SELECTED] rs-ro
 
   ro-sc:
     [REMOVED]  ro-sc
@@ -1084,12 +1084,12 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] se-ro
 
   ro-sp:
-    [REMOVED]  ro-sp
-    [SELECTED] sp-ro
+    [SELECTED] ro-sp
+    [REMOVED]  sp-ro
 
   ro-to:
-    [REMOVED]  ro-to
-    [SELECTED] to-ro
+    [SELECTED] ro-to
+    [REMOVED]  to-ro
 
   rr-rs:
     [SELECTED] rr-rs
@@ -1124,8 +1124,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  sp-rs
 
   rs-to:
-    [SELECTED] rs-to
-    [REMOVED]  to-rs
+    [REMOVED]  rs-to
+    [SELECTED] to-rs
 
   sc-se:
     [REMOVED]  sc-se
@@ -1136,8 +1136,8 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [REMOVED]  sp-sc
 
   sc-to:
-    [SELECTED] sc-to
-    [REMOVED]  to-sc
+    [REMOVED]  sc-to
+    [SELECTED] to-sc
 
   se-sp:
     [REMOVED]  se-sp
@@ -1151,7 +1151,7 @@ GRUPOS COM DUPLICATAS (apenas o selecionado):
     [SELECTED] sp-to
     [REMOVED]  to-sp
 
-LINKS UNICOS:
+UNIQUE LINKS:
   [UNIQUE] pb-mg
   [UNIQUE] pb-rn
   [UNIQUE] ro-rn

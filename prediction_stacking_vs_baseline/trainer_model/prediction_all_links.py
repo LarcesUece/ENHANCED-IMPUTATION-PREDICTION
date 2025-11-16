@@ -3,9 +3,8 @@ from datetime import datetime
 from pathlib import Path
 import numpy as np
 import pandas as pd
-from sklearn.discriminant_analysis import StandardScaler
 from sklearn.model_selection import TimeSeriesSplit
-from sklearn.preprocessing import RobustScaler
+from sklearn.preprocessing import RobustScaler, StandardScaler
 import torch
 import torch.nn as nn
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
@@ -40,7 +39,8 @@ class PredictionAllLinks:
                  patience: int = 3,
                  log_level: str = "INFO",
                  log_dir: str = "logs",
-                 plots: bool = False):
+                 plots: bool = False,
+                 max_links: int = None):
 
         self.RANDOM_STATE = 42
         self.data_dir = data_dir
@@ -57,6 +57,7 @@ class PredictionAllLinks:
         self.log_level = log_level
         self.log_dir = log_dir
         self.plots = plots
+        self.max_links = max_links
 
 
     def setup_logger(self, log_dir: str, level: str):
@@ -86,20 +87,35 @@ class PredictionAllLinks:
 
 
     def choose_device(self, logger):
+        logger.info(f"PyTorch version: {torch.__version__}")
+        logger.info(f"CUDA available (torch.cuda.is_available()): {torch.cuda.is_available()}")
+        logger.info(f"CUDA version: {torch.version.cuda if torch.cuda.is_available() else 'N/A'}")
+        if torch.cuda.is_available():
+            logger.info(f"CUDA device count: {torch.cuda.device_count()}")
+            for i in range(torch.cuda.device_count()):
+                logger.info(f"  Device {i}: {torch.cuda.get_device_name(i)}")
+        
         if self.device == "cpu":
             logger.info("Using CPU (forced).")
             return torch.device("cpu")
-        if self.device in ("auto", "cuda") and torch.cuda.is_available():
-            dev = torch.device("cuda")
-            logger.info(f"CUDA available: {torch.cuda.get_device_name(dev)}")
-            try:
-                torch.backends.cudnn.benchmark = True
-                torch.set_float32_matmul_precision('medium')
-            except Exception:
-                pass
-            return dev
-        if self.device == "cuda":
-            raise RuntimeError("CUDA requested but not available. Use device='auto' or device='cpu'.")
+        
+        if self.device in ("auto", "cuda"):
+            if torch.cuda.is_available():
+                dev = torch.device("cuda")
+                logger.info(f"CUDA available: {torch.cuda.get_device_name(dev)}")
+                try:
+                    torch.backends.cudnn.benchmark = True
+                    torch.set_float32_matmul_precision('medium')
+                    logger.info("CUDA optimization flags set successfully")
+                except Exception as e:
+                    logger.warning(f"Could not set CUDA optimizations: {e}")
+                return dev
+            else:
+                if self.device == "cuda":
+                    raise RuntimeError("CUDA requested but not available. Use device='auto' or device='cpu'.")
+                logger.warning("CUDA not available; falling back to CPU.")
+                return torch.device("cpu")
+        
         logger.info("CUDA not available; using CPU.")
         return torch.device("cpu")
 
@@ -273,7 +289,15 @@ class PredictionAllLinks:
         detail_rows = []
         summary_rows = []
 
-        for link, data in sorted(grouped.items()):
+        # Limit processing if max_links is specified
+        if self.max_links is not None:
+            links_to_process = list(sorted(grouped.items()))[:self.max_links]
+            logger.info(f"Processing limited to {len(links_to_process)} links out of {len(grouped)} total links")
+        else:
+            links_to_process = list(sorted(grouped.items()))
+            logger.info(f"Processing all {len(links_to_process)} links")
+
+        for link, data in links_to_process:
             stacking_fp = data.get("stacking")
             baseline_files_all = data.get("baselines", [])
             baseline_files = [(m, fp) for (m, fp) in baseline_files_all if m.lower() in baseline_keep_set]
@@ -394,5 +418,8 @@ class PredictionAllLinks:
 
         logger.info(f"Log: {log_path}")
         logger.info("End.")
+
+
+
 
 

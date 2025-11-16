@@ -31,7 +31,7 @@ class ImprovementLinks:
         This class will run experiments comparing stacking methods with baseline methods,
         focusing on filtered links to improve RMSE values and the improvement_pct column.
         After running the "prediction_all_links.py" file, the data will be filtered to include only five links,
-        which are: sc-rn, df-go, ac-rn, am-rn, mt-ma.
+        which are: sc-rn, pr-go, ac-rn, am-rn, mt-sc.
     """
 
     def __init__(self, path_links="files_filtered"):
@@ -350,14 +350,14 @@ class ImprovementLinks:
             },
 
             {
-                "link": "df-go",
+                "link": "pr-go",
                 "model_type": "GRU",
                 "files": [
-                    ("median", "df-go_baseline_median.csv"),
-                    ("stacking", "df-go_stacking.csv")
+                    ("median", "pr-go_baseline_bfill.csv"),
+                    ("stacking", "pr-go_stacking.csv")
                 ],
                 "param_ranges": {
-                    "median": {
+                    "bfill": {
                         "window": (24, 48),
                         "hidden_size": (32, 48),
                         "num_layers": (2, 4),
@@ -429,14 +429,14 @@ class ImprovementLinks:
             },
 
             {
-                "link": "mt-ma",
+                "link": "mt-sc",
                 "model_type": "GRU",
                 "files": [
-                    ("ffill", "mt-ma_baseline_ffill.csv"),
-                    ("stacking", "mt-ma_stacking.csv")
+                    ("knn", "mt-sc_baseline_knn.csv"),
+                    ("stacking", "mt-sc_stacking.csv")
                 ],
                 "param_ranges": {
-                    "ffill": {
+                    "knn": {
                         "window": (24, 48),
                         "hidden_size": (32, 64),
                         "num_layers": (2, 4),
